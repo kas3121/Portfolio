@@ -1,0 +1,22 @@
+body {
+    background-color: crimson;
+}
+td, th {
+    border: 8px solid black;
+}
+table {
+    width: 40px;
+}
+table {
+    width: 500px;
+    margin: 0 auto;
+}
+table {
+border-collapse: collapse;    
+}
+td{
+    text-align: center;
+}
+table{
+background: linear-gradient( #33ccff 0%, #ff99cc 100%);    
+}

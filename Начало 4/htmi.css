@@ -1,0 +1,53 @@
+.parent-head{
+width:50% ;
+margin:0 auto ;    
+height: 600px;
+}
+.head1{
+height: 250px;
+background-color: red;
+}
+.head2{
+height:250px ;
+background-color: blue;    
+}
+.head3{
+height:250px ;
+background-color: chartreuse;    
+}
+.head4{
+ height:250px ;
+    background-color: coral;  
+}
+.head5{
+ height:250px ;
+ background-color: gold;    
+}
+    
+}
+.child {
+    display: inline-block;
+    width: 33%;
+    height: 250px;
+}
+.pink {
+    background-color: darkorchid;
+}
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
+.Paradise{
+    display: inline-block;
+    width: 33%;
+    height: 250px   
+}
+.Orange{
+background-color:  Orange;    
+}
+.violet{
+background-color: violet;    
+}
