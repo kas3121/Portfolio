@@ -1,0 +1,60 @@
+.hed{
+height: 100vh;
+width: 1960px;
+background-color: goldenrod;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.hedred{
+height: 300px;
+width: 300px;
+background-color: red;
+border-radius: 50%;
+}
+.ad{
+    height: 100vh;
+    width: 1960px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.da{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+top: 30px;
+left: 40px;
+}
+.ket{
+height: 1960px;
+width: 1960px;
+background-color: fuchsia;
+border-radius: 10%;
+
+}
+.men{
+    border: 120px solid white;
+    background-color: pink;
+    border-radius:  20%;
+    width: 1200px;
+    height: 1200px;
+    position: relative;
+    top: 260px;
+    left: 260px;
+}
+.dog{
+    border: 60px solid white;
+    background-color: fuchsia;
+    border-radius:  50%;
+    width:700px ;
+    height:700px ;
+    position: relative;
+    top:190px ;
+    left:190px;
+    
+}
